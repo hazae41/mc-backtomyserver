@@ -1,0 +1,4 @@
+name: BackToMyServer
+version: @version@
+main: hazae41.minecraft.backtomyserver.Plugin
+author: hazae41
