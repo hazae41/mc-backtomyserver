@@ -1,3 +1,4 @@
+debug: true
 force: false
 blacklist:
 - login
