@@ -1,3 +1,4 @@
+force: false
 blacklist:
 - login
 - dragonland
